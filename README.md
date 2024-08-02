@@ -1,5 +1,4 @@
-```markdown
-# Employee Data Insertion GUI Application
+-# Employee Data Insertion GUI Application
 
 This Python application provides a graphical user interface (GUI) to insert data from an Excel file into a MySQL database. The application is built using PyQt5.
 
@@ -80,5 +79,3 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or suggestions, please open an issue or contact me.
-
-```
