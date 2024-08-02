@@ -1,4 +1,4 @@
--# Employee Data Insertion GUI Application
+# Employee Data Insertion GUI Application
 
 This Python application provides a graphical user interface (GUI) to insert data from an Excel file into a MySQL database. The application is built using PyQt5.
 
