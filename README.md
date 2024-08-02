@@ -79,3 +79,9 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or suggestions, please open an issue or contact me.
+
+## Screenshot
+![Screenshot of the application](https://raw.githubusercontent.com/uncogeek/python-gui-excel-to-mysql/main/gui-app.png)
+
+
+
